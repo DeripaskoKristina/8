@@ -1,0 +1,15 @@
+C:\Users\yuriy\Desktop\Test_4\test8\test83\bin\Debug\net7.0\test83.exe
+C:\Users\yuriy\Desktop\Test_4\test8\test83\bin\Debug\net7.0\test83.deps.json
+C:\Users\yuriy\Desktop\Test_4\test8\test83\bin\Debug\net7.0\test83.runtimeconfig.json
+C:\Users\yuriy\Desktop\Test_4\test8\test83\bin\Debug\net7.0\test83.dll
+C:\Users\yuriy\Desktop\Test_4\test8\test83\bin\Debug\net7.0\test83.pdb
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.csproj.AssemblyReference.cache
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.AssemblyInfoInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.AssemblyInfo.cs
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.csproj.CoreCompileInputs.cache
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.dll
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\refint\test83.dll
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.pdb
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\test83.genruntimeconfig.cache
+C:\Users\yuriy\Desktop\Test_4\test8\test83\obj\Debug\net7.0\ref\test83.dll
